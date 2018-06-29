@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14029" started-at="2018-05-09T02:33:10Z" finished-at="2018-05-09T02:33:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14029" started-at="2018-05-09T02:33:10Z" finished-at="2018-05-09T02:33:24Z">
+      <class name="GetElementAttribute">
+        <test-method status="PASS" signature="getlinksFromSpecifiArea()[pri:0, instance:GetElementAttribute@3a82f6ef]" name="getlinksFromSpecifiArea" duration-ms="13989" started-at="2018-05-09T08:03:10Z" finished-at="2018-05-09T08:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlinksFromSpecifiArea -->
+      </class> <!-- GetElementAttribute -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
